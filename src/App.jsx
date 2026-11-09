@@ -670,12 +670,6 @@ export default function App() {
               </button>
             </div>
           </div>
-
-          <div className="toolbar-group standard-badge-group">
-            <span className="standard-format-tag">
-              📐 Tamanho Padrão: 16:10 (600×375px)
-            </span>
-          </div>
         </div>
 
         <section className={`menu-grid layout-${viewMode}`} aria-label="Menu">
