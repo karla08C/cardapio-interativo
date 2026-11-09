@@ -1,13 +1,13 @@
 # 🍽️ Cardápio Digital Interativo
 
-[![Deploy to GitHub Pages](https://github.com/karla08C/Card-pio-Interativo/actions/workflows/deploy.yml/badge.svg)](https://github.com/karla08C/Card-pio-Interativo/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/karla08C/cardapio-interativo/actions/workflows/deploy.yml/badge.svg)](https://github.com/karla08C/cardapio-interativo/actions/workflows/deploy.yml)
 [![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 > Cardápio digital e interativo com catálogo responsivo, personalização de pratos, cálculo de extras em tempo real, checkout integrado via WhatsApp e painel administrativo para gestão de produtos.
 
-🔗 **[Acessar Demonstração Online (Live Demo)](https://karla08c.github.io/Card-pio-Interativo/)**
+🔗 **[Acessar Demonstração Online (Live Demo)](https://karla08c.github.io/cardapio-interativo/)**
 
 ---
 
@@ -114,4 +114,4 @@ Desenvolvido por **Karla Castro**
 ---
 
 ## 📄 Licença
-Distribuído sob a licença **MIT**. Consulte `LICENSE` para mais informações.
+Distribuído sob a licença **MIT**. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
